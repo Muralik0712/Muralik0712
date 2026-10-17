@@ -32,7 +32,7 @@ I'm a fresher passionate about **AWS, DevOps and CI/CD automation**. I completed
 |---|---|
 | **CI/CD** | Jenkins, Git, GitHub, Webhooks, Branching Strategies, Release Management |
 | **Containers** | Docker, Dockerfiles, Kubernetes (Pods, Deployments, Services, ConfigMaps, Secrets) |
-| **Cloud & Linux** | AWS (EC2, VPC, IAM, S3, RDS, Lambda), SSH, Systemd, Package Management |
+| **Cloud & Linux** | AWS (EC2, VPC, IAM, S3, RDS,), SSH, Systemd, Package Management |
 | **IaC** | Terraform (Variables, State, Modules), Ansible |
 | **Networking** | OSI Model, DNS, DHCP, HTTP/HTTPS |
 | **Monitoring** | CloudWatch, Prometheus, Grafana, Alerting |
